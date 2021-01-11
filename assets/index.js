@@ -1,0 +1,1 @@
+export {default as pattern} from './pattern.png';
